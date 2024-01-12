@@ -13,7 +13,7 @@ JavaScript
 Getting Started
 To use the app, simply navigate to https://my-music-gani.netlify.app/ in your web browser. The app should load automatically and be ready to use.
 
-If you want to run the app locally, you can download the code from https://github.com/Ganeshshinde-2003/MYMUSIC and open the index.html file in your web browser.
+If you want to run the app locally, you can download the code from https://github.com/SangitaJha/My-Music-App.git and open the index.html file in your web browser.
 
 How to Use
 To play a song, simply click on the corresponding play button. The progress bar will indicate how much of the song has been played.
